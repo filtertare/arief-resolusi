@@ -1,6 +1,6 @@
 RENCANA DAILY ARIEF
 
-- bangun
-- belajar
-- sarapan
-- tidur
+- bangun (05.00)
+- belajar (06.00)
+- sarapan (09.00)
+- tidur (10.00)
