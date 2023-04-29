@@ -3,4 +3,4 @@ ARIEF RESOLUSI
 - membuat machine learning
 - membuat program sederhana
 - memahami web3
-- investasi saham
+- membuat blockcahin
